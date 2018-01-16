@@ -63,8 +63,8 @@
   group_id:
   url: https://vtmacs003b.github.io/maebashi.jp/
 - dojo_id: 89
-  name: google
-  group_id:
+  name: static_yaml
+  group_id: 1234567
   url:
 - dojo_id: 73
   name: facebook
